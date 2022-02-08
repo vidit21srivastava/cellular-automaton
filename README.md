@@ -19,3 +19,6 @@ cd cellular-automaton
 ```posh
 npm start
 ```
+## Deployment
+
+[Cellular-Automaton](https://vidit21srivastava.github.io/cellular-automaton/)
