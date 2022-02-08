@@ -1,0 +1,36 @@
+.Board {
+    
+    position: relative;
+    margin: 0 auto;
+    background-color: #000;
+    background-image:
+        linear-gradient(#151b29 1px, transparent 1px),
+        linear-gradient(90deg, #151b29 1px, transparent 1px);
+}
+
+.Cell {
+    
+    background: #ccc;
+    position: absolute;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+.button {
+    background: none;
+    color: #ffa260;
+    border: 2px solid;
+    padding: 0.5em 1em ;
+    font-size:  1em;
+    transition: color 0.2s,border-color 0.2s,box-shadow 0.2s,transform 0.25s;
+}
+.button:hover{
+    border-color: #f1ff5c;
+    color: white ;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    transform : translateY(-0.25em);
+    cursor: pointer;
+    
+}
