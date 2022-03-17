@@ -5,7 +5,7 @@ This App has been created using ReactJS, which implements [Cellular Automaton](h
 
 You are recommended to install it through `npm`. To install `npm`, install [node.js](https://nodejs.org/en/download/).
 
-1. Clone your fork using 
+1. Clone this repo using 
 ```posh
 git clone https://github.com/<YOUR_GITHUB_HANDLE>/cellular-automaton
 ```
